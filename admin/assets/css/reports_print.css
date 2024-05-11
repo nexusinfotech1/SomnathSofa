@@ -1,0 +1,14 @@
+@import url("reports.css");
+
+#options_panel {
+	display: none;
+}
+
+.letter_footer {
+	position: fixed;
+	bottom: 0;
+}
+
+.ui-datepicker {
+	display: none;
+}
